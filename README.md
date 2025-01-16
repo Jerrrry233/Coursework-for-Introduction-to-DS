@@ -34,7 +34,7 @@ This project explores the influence of lunar phases on news sentiment using sent
 4. **Download the Dataset**:
     Download the news category dataset from Kaggle and update the file path in the R script to match your system, as the current path reflects theauthor’s local directory.
 
-6.  **Run the Script**:
+5.  **Run the Script**:
    - Open DDDDDDSSSS course work_R.R in RStudio.
    - Run the script step-by-step to perform data preprocessing, exploratory data analysis, statistical testing, and sentiment analysis.
 
